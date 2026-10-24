@@ -1,0 +1,25 @@
+# Unreal Engine - pastas geradas automaticamente (nao vao pro GitHub)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Plugins - so o codigo/conteudo, nao os arquivos compilados
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Sistema
+.DS_Store
+Thumbs.db
